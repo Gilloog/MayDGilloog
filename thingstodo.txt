@@ -1,0 +1,5 @@
+List of things we should get done: 
+
+Assemble sources on sketch-image image-sketch image translation
+download necessary datasets
+figure out if we want to use tensorflow or pytorch
