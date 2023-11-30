@@ -1,5 +1,5 @@
 #piecing out the code so that this just gets the sketch images working, then we can throw this back to the model.py file to train it and whatnot
-
+#all this code is in model.py im using this file to see if i can get the images turned into sketches properly (im not getting it yet)
 
 import torch
 import torch.nn as nn
